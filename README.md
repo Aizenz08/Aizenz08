@@ -1,6 +1,6 @@
 
 <a href="#" target="_blank">
-  <img src="./svg/svg.svg" width="1200" alt="anNT" />
+  <img src="./svg/svg.svg" width="1200" alt="Ant Dev" />
 </a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
